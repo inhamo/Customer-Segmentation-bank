@@ -108,4 +108,4 @@ For any questions or support, please contact [Innocent Nhamo](mailto:itnhamo@gma
 
 ---
 
-**Note**: This repository is a part of the customer segmentation analysis project for Global Bank and contains confidential information. Please handle the data responsibly and adhere to the bank's data privacy policies.
+**Note**: This repository is a part of the customer segmentation analysis project for a fake Global Bank and contains confidential information. Please handle the data responsibly and adhere to the bank's data privacy policies. haha
